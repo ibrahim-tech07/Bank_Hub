@@ -1,0 +1,25 @@
+{
+  "name": "bank_hub",
+  "version": "1.0.0",
+  "description": "Bank Hub is a Locator tool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahim-tech07/Bank_Hub.git"
+  },
+  "author": "Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahim-tech07/Bank_Hub/issues"
+  },
+  "homepage": "https://github.com/ibrahim-tech07/Bank_Hub#readme",
+  "dependencies": {
+    "axois": "^0.0.1-security",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
